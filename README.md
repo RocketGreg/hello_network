@@ -8,3 +8,7 @@ Learning Git, while using Github, is the intened use.
 # Subheader
 
 What did I just do?
+
+## Local Development
+
+Branching out.
